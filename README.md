@@ -1,6 +1,6 @@
 # NeetCode Solutions — @BhavyaNayak04
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-bpuv90iz`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode`
 
 ---
 
